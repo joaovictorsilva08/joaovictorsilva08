@@ -29,9 +29,9 @@ Sou um Desenvolvedor Back-end e atualmente estou cursando Técnico em Desenvolvi
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MuriloFelipe-S&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" alt="Estatísticas do GitHub de Murilo" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=joaovictorsilva08&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" alt="Estatísticas do GitHub de Murilo" height="180" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloFelipe-S&layout=compact&theme=tokyonight&locale=pt-br" alt="Linguagens mais usadas por Murilo" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictorsilva08&layout=compact&theme=tokyonight&locale=pt-br" alt="Linguagens mais usadas por Murilo" height="180" />
 
 </div>
 
